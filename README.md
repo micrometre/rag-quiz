@@ -24,7 +24,7 @@ This project demonstrates a practical RAG application that:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/micrometre/rag
+   git clone https://github.com/micrometre/rag-quiz
    cd rag
    ```
 
